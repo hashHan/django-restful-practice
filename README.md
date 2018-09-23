@@ -11,7 +11,7 @@
 
 1. Clone git repo
 2. Install Anaconda
-3. Create conda env with environment.yml
+3. Create conda env with environment.yml and activate the env
 4. Move to root folder
 5. python manage.py makemigrations
 6. python manage.py migrate
