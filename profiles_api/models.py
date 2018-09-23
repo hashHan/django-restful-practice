@@ -33,7 +33,7 @@ class UserProfileManager(BaseUserManager):
 
         return user
 
-class UserProfile(AbstractBaseUser, PermissionError):
+class UserProfile(AbstractBaseUser, PermissionsMixin):
     """
     User profile model
     """
