@@ -16,3 +16,9 @@
 5. python manage.py makemigrations
 6. python manage.py migrate
 7. python manage.py runserver
+
+### Deployment
+
+I didn't deploy this repo.
+Current /deploy-just-reference folder contains setups not for Anaconda.
+It's just reference. 
